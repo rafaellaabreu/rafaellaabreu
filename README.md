@@ -7,8 +7,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaellaabreu)
 
 
-![rafaella GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellaabreu&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaabreu&hide_progress=true)
+<!--![rafaella GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellaabreu&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaabreu&hide_progress=true)-->
 
 
 ## Tecnologias que estou estudando
@@ -24,4 +24,4 @@
 
 Conhecimento não é aquilo que você sabe, mas o que você faz com aquilo que sabe.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaabreu&hide_progress=true)
+
